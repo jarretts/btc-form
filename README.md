@@ -4,6 +4,7 @@
 
 Follow these steps to run the app locally via your terminal:
 - ```git clone https://github.com/jarretts/btc-form.git``` - clones repo to your local machine
+- ```cd btc-form``` - change into newly-cloned directory
 - ```npm install``` - installs required dependencies
 - ```npm start``` - runs the React app
 
